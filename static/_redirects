@@ -14,4 +14,5 @@ https://nushackers.netlify.com/* https://www.nushackers.org/:splat 301!
 /fh /fridayhacks/schedule
 /events /about/#what-we-do
 
-/fh211zoom https://nus-sg.zoom.us/j/83651946480?pwd=dG84TWFOQUltWjE4bUlWaWF1bEcvdz09
+# Temporary shortlinks
+/fhzoom https://nus-sg.zoom.us/j/85800495866?pwd=L0lWckc0anBpeHdLSHJwZEIzQndzZz09
